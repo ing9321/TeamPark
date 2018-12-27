@@ -17,11 +17,14 @@
 
 
 ---
-# 이한규 ( 브레인 )
+# 이한규 (  )
+## 성격
+![image](https://user-images.githubusercontent.com/29854777/50471985-4bd16980-09fa-11e9-81fb-a96797fabb24.png)
 
-특징 : 제일 능력자, 모든 걸 알고 계심
+특징 : 사진찍는것을 좋아함
+![image](https://user-images.githubusercontent.com/29854777/50472191-2002b380-09fb-11e9-8cfb-60a1d0a5a791.png)
 
-연말 계획 : 
+연말 계획 : 가족들과 시간을 보내기 위해 시골로 내려갈 예정
 
 
 ---
