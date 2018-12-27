@@ -17,14 +17,14 @@
 
 
 ---
-# 이한규 (  )
+# 이한규
+## 별명 : 핀
+![image](https://user-images.githubusercontent.com/29854777/50472488-5d1b7580-09fc-11e9-9610-99b70a11b6e5.png)
 ## 성격
-![image](https://user-images.githubusercontent.com/29854777/50471985-4bd16980-09fa-11e9-81fb-a96797fabb24.png)
-
-특징 : 사진찍는것을 좋아함
-![image](https://user-images.githubusercontent.com/29854777/50472191-2002b380-09fb-11e9-8cfb-60a1d0a5a791.png)
-
-연말 계획 : 가족들과 시간을 보내기 위해 시골로 내려갈 예정
+![image](https://user-images.githubusercontent.com/29854777/50472400-fac27500-09fb-11e9-9291-04f79f149e70.png)
+## 특징 : 사진찍는것을 좋아함
+![image](https://user-images.githubusercontent.com/29854777/50472383-eaaa9580-09fb-11e9-8d91-5fe90e6e3bd6.png)
+## 연말 계획 : 가족들과 시간을 보내기 위해 시골로 내려갈 예정
 
 
 ---
