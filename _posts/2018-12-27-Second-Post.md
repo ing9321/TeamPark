@@ -1,5 +1,5 @@
 ---
-title: SSAFY Start Camp 챗봇 퀘스트
+title: 2주차 Reflection, SSAFY Start Camp 챗봇 퀘스트
 ---
 
 서울_7반_이한규, https://github.com/Rapha0814/chatbot_test
